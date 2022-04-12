@@ -9,23 +9,23 @@
     "labels": [
         {
             "text": "Flyer",
-            "color": "flyer",
-            "type": "#FFFFFF"
+            "type": "flyer",
+            "color": "#FFFFFF"
         },
         {
             "text": "Aprovechá \\nsolo por hoy",
-            "color": "title",
-            "type": "#FFFFFF"
+            "type": "title",
+            "color": "#FFFFFF"
         },
         {
             "text": "Ver más",
-            "color": "cta",
-            "type": "#FFFFFF"
+            "type": "cta",
+            "color": "#FFFFFF"
         },
         {
             "text": "Legales",
-            "color": "legal",
-            "type": "#FFFFFF"
+            "type": "legal",
+            "color": "#FFFFFF"
         }
     ]
 }
