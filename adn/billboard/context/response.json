@@ -1,0 +1,31 @@
+{
+    "image_url": "https://tpc.googlesyndication.com/simgad/6134964605511308723?",
+    "bottom_color": "#686868",
+    "deeplink": "",
+    "destination_url": "https://raw.githubusercontent.com/alexisrivs/mock-adn-server/tracks/click/response.json",
+    "print_url": "https://raw.githubusercontent.com/alexisrivs/mock-adn-server/tracks/print/response.json",
+    "first_logo": "",
+    "second_logo": null,
+    "labels": [
+        {
+            "text": "Flyer",
+            "color": "flyer",
+            "type": "#FFFFFF"
+        },
+        {
+            "text": "Aprovechá \\nsolo por hoy",
+            "color": "title",
+            "type": "#FFFFFF"
+        },
+        {
+            "text": "Ver más",
+            "color": "cta",
+            "type": "#FFFFFF"
+        },
+        {
+            "text": "Legales",
+            "color": "legal",
+            "type": "#FFFFFF"
+        }
+    ]
+}
