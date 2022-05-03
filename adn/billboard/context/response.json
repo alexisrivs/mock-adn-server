@@ -1,5 +1,5 @@
 {
-    "template": "ADN_BILLBOARD",
+    "type": "ADN_BILLBOARD",
     "image_url": "https://tpc.googlesyndication.com/simgad/6134964605511308723?",
     "bottom_color": "#686868",
     "deeplink": "",
