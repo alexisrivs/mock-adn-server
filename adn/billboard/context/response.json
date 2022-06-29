@@ -12,11 +12,6 @@
         "https://raw.githubusercontent.com/alexisrivs/mock-adn-server/test/mock-adn-v1/tracks/print/response.json",
         "https://raw.githubusercontent.com/alexisrivs/mock-adn-server/test/mock-adn-v1/tracks/print/response1.json",
         "https://raw.githubusercontent.com/alexisrivs/mock-adn-server/test/mock-adn-v1/tracks/print/response2.json"
-    ],
-    "view_url": [
-        "https://raw.githubusercontent.com/alexisrivs/mock-adn-server/test/mock-adn-v1/tracks/view/response.json",
-        "https://raw.githubusercontent.com/alexisrivs/mock-adn-server/test/mock-adn-v1/tracks/view/response1.json",
-        "https://raw.githubusercontent.com/alexisrivs/mock-adn-server/test/mock-adn-v1/tracks/view/response2.json"
     ],    
     "first_logo": "",
     "second_logo": null,
