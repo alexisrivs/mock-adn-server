@@ -14,8 +14,8 @@
             "primary_logo": "https://http2.mlstatic.com/D_NQ_NP_670755-MLA50047311834_052022-B.jpg"
           },
           "colors": {
-            "card_background_color": "#ffff",
-            "card_text_color": "#ffff"
+            "card_background_color": "#ffffffff",
+            "card_text_color": "#ffffffff"
           },
           "actions": {
             "content_link": {
