@@ -46,7 +46,7 @@
         },
         "start_date": "2022-01-17T16:45:25Z",
         "end_date": "2022-12-31T18:00:00Z",
-        "template": "vertical",
+        "template": "billboard",
         "lazy_loading_print_percentaje": 10
       }
     ]
