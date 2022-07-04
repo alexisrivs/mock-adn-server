@@ -1,0 +1,53 @@
+{
+    "items": [
+      {
+        "type": "adn",
+        "content": {
+          "texts": {
+            "cta": "Ver tienda",
+            "volanta": "descubrí",
+            "legal": "solo nisperos selecionados",
+            "primary_title": "Regreso\na clase"
+          },
+          "images": {
+            "vertical_picture": "https://http2.mlstatic.com/D_NQ_NP_906566-MLA50047436296_052022-F.jpg",
+            "primary_logo": "https://http2.mlstatic.com/D_NQ_NP_670755-MLA50047311834_052022-B.jpg"
+          },
+          "colors": {
+            "card_background_color": "#008000",
+            "card_text_color": "#ffffffff"
+          },
+          "actions": {
+            "content_link": {
+              "action_id": "advertising",
+              "link": "meli://generic_landing?url=https://www.mercadolibre.cl/ofertas",
+              "event_data": {},
+              "target": "external_link"
+            }
+          }
+        },
+        "event_tracking": {
+          "print": [
+            {
+              "url": "https://print1.mercadoclics.com/display/prints/MLC/count?d=4kZBIxE2mvhZ3aPe%2FBsPk6MW7%2FqrO1vPC6r0fgLFWADm3Pk%2BTLMWZ4AN996v2UA7qrGQckEqkkO4swC10Aarqb73OLjKeYx1BiBbLqPXiEZpVQSwP5nikBW4FsA7fDjLrlFKn7ZR6QIad%2FDv5eGIMJDpC0H3cmWfWUaTzAdHRiVaJsiI%2FNDk9vDeiAKunMoU8kqV0tUeUG5F%2F%2FY36p7WQKRwzMk96jJO7OompF3uVwW2GByR%2FEKXwXBAUEw%2FDxwLV1ClRByVNqewJVW0rWmiy66PFf5xeIY5egtm5IE6IBj7s11i%2FDb%2BhTkbuMyYgwn8PxwoUjBXhVs1RNB5oR%2BNEq09ghcSNiUnxW8RoXPELOd%2F0KPl8Bm%2FQzWwjfdcMcw%2BW%2B%2FJvak4evUbmYgK%2BZNVwciE6mI8Ro3VKaMtsbZHcvK0p1FZ%2BoMehNRAvOJU4XV%2F9KlSjH1rTeGaO4KN8TJRI%2Ft%2FRX6u%2F6aeKoODxvxiiOz%2BSHClKUBfJYYDcqS4x48FwfpskmUXteTxGqZA3nGEuGnhY6ZLsxAYE0EcXA0%3D"
+            },
+            {
+              "url": "https://print1.mercadoclics.com/display/prints/MLC/count?d=4kZBIxE2mvhZ3aPe%2FBsPk6MW7%2FqrO1vPC6r0fgLFWADm3Pk%2BTLMWZ4AN996v2UA7qrGQckEqkkO4swC10Aarqb73OLjKeYx1BiBbLqPXiEZpVQSwP5nikBW4FsA7fDjLrlFKn7ZR6QIad%2FDv5eGIMJDpC0H3cmWfWUaTzAdHRiVaJsiI%2FNDk9vDeiAKunMoU8kqV0tUeUG5F%2F%2FY36p7WQKRwzMk96jJO7OompF3uVwW2GByR%2FEKXwXBAUEw%2FDxwLV1ClRByVNqewJVW0rWmiy66PFf5xeIY5egtm5IE6IBj7s11i%2FDb%2BhTkbuMyYgwn8PxwoUjBXhVs1RNB5oR%2BNEq09ghcSNiUnxW8RoXPELOd%2F0KPl8Bm%2FQzWwjfdcMcw%2BW%2B%2FJvak4evUbmYgK%2BZNVwciE6mI8Ro3VKaMtsbZHcvK0p1FZ%2BoMehNRAvOJU4XV%2F9KlSjH1rTeGaO4KN8TJRI%2Ft%2FRX6u%2F6aeKoODxvxiiOz%2BSHClKUBfJYYDcqS4x48FwfpskmUXteTxGqZA3nGEuGnhY6ZLsxAYE0EcXA0%3D1"
+            }
+          ],
+          "click": [
+            {
+              "url": "https://click1.mercadolibre.cl/display/clicks/MLC/count?a=5nB44UdkrEK9R2gJXT76SGG6mRkZOG3BktGhcf0SRXEYcBqytJ9%2Bw7hl8zWPU42aaHttqHw%2B%2BWAXz1TW0xZ8XCzjOmlM%2BLsNskuaihBUqBqO2T8%2BgyhfDO9os%2B0QfJ1QjDQHyNMdaXMYGUEsoNtiHoRTtSiF%2FAFi8BcEgnqmPJxAgipjZOhIDq19FC3GKkTGd7k5f2E1yTEx3axs5PaKVqe4JnORaEvvrW1ZeeNSjOHVLjzs8FMfvKMT7E%2BhlviTw%2FkscBmnfs7LWz8cXW1AzIQwWyFrP%2BCDDU7DWscfDgaFioAY46PtFZxXXO7UQevH%2FTkENsjfLS6SOll5VrVk8uM89KKWZAC5Z%2BWQX5cSrNHEwzyvooLyjCgcBZvCr2SphQEmIguJH4d7IOKNOYF%2BPVZ7HSVgljej0MXkImoLaet8IC1Q%2BF7rgW47QnHPsNyHTjDHYw36Yg%3D%3D"
+            },
+            {
+              "url": "https://click1.mercadolibre.cl/display/clicks/MLC/count?a=5nB44UdkrEK9R2gJXT76SGG6mRkZOG3BktGhcf0SRXEYcBqytJ9%2Bw7hl8zWPU42aaHttqHw%2B%2BWAXz1TW0xZ8XCzjOmlM%2BLsNskuaihBUqBqO2T8%2BgyhfDO9os%2B0QfJ1QjDQHyNMdaXMYGUEsoNtiHoRTtSiF%2FAFi8BcEgnqmPJxAgipjZOhIDq19FC3GKkTGd7k5f2E1yTEx3axs5PaKVqe4JnORaEvvrW1ZeeNSjOHVLjzs8FMfvKMT7E%2BhlviTw%2FkscBmnfs7LWz8cXW1AzIQwWyFrP%2BCDDU7DWscfDgaFioAY46PtFZxXXO7UQevH%2FTkENsjfLS6SOll5VrVk8uM89KKWZAC5Z%2BWQX5cSrNHEwzyvooLyjCgcBZvCr2SphQEmIguJH4d7IOKNOYF%2BPVZ7HSVgljej0MXkImoLaet8IC1Q%2BF7rgW47QnHPsNyHTjDHYw36Yg%3D%3D1"
+            }
+          ]
+        },
+        "start_date": "2022-01-17T16:45:25Z",
+        "end_date": "2022-12-31T18:00:00Z",
+        "template": "billboard",
+        "lazy_loading_print_percentaje": 10
+      }
+    ]
+}
