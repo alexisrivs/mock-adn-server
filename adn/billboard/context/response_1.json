@@ -46,7 +46,11 @@
         },
         "start_date": "2022-01-17T16:45:25Z",
         "end_date": "2022-12-31T18:00:00Z",
-        "template": "billboard",
+        "template": {
+          "url": "https://http2.mlstatic.com/frontend-assets/adn-frontend-library/adn-banner-vertical.0.0.2.js",
+          "tag": "adn-banner-vertical"
+        },
+        "placement": "billboard",
         "lazy_loading_print_percentaje": 10
       }
     ]
