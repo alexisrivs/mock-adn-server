@@ -1185,11 +1185,20 @@
                   "id": "MLB1653548006",
                   "title": "Promoção Cropped Top Alça Grossa Branco - Suplex Light ",
                   "picture": "https://http2.mlstatic.com/D_NQ_NP_935041-MLA44170392538_112020-OO.webp",
+                  "price": {
+                    "amount": 99999999.99,
+                    "currency_id": "BRL",
+                    "symbol": "R$",
+                    "discount_label": {
+                      "text": "5% OFF"
+                    }
+                  },
+                  "vertical": "CORE",
                   "promise": {
                     "text": "Chegará grátis amanhã",
                     "color": "#00A650",
                     "background": "#E6F7EF",
-                    "fulfillment": false
+                    "fulfillment": true
                   },
                   "actions": {
                     "content_link": {
